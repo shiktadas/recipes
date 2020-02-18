@@ -1,2 +1,5 @@
-# waIngredients 
+# Ingredients
+- avocado 
+- lemon
+- salt 
 # Instructions
